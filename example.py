@@ -28,6 +28,7 @@ x = ["apple","banana"]
 print("pinapple" not in x)
 print("banana" in x)
 #
+
 age=67
 age_second=75
 print("Age: {0} {1}".format(age, age_second))
